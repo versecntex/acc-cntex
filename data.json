@@ -10,16 +10,6 @@
         "access":"ptsp"
     },
     {
-        "email":"alilou@admin",
-        "token":"admin@admin",
-        "date_expiration":"2024-12-05",
-        "date_created":"2024-11-05",
-        "browser_id":[
-            "5f3c1698b970ea65e554fe95a6cf2d86"
-        ],
-        "access":"sp"
-    },
-    {
         "email":"tarikelbark",
         "token":"takirlbark12345",
         "date_expiration":"2024-12-05",
