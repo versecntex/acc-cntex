@@ -1,49 +1,55 @@
 [
     {
-        "email": "nsr97",
-        "token": "Nsr@1997",
-        "date_expiration": "2024-12-05",
-        "date_created": "2024-11-05",
-        "browser_id": [
+        "email":"nsr97",
+        "token":"Nsr@1997",
+        "date_expiration":"2024-12-05",
+        "date_created":"2024-11-05",
+        "browser_id":[
             "5f3c1698b970ea65e554fe95a6cf2d86",
             "5495977f8d062ed1e3fd1c75a317a486",
             "a808c27dd41ad46335765a0383c1b974"
         ],
-        "access": "sp"
+        "access":"sp"
     },
     {
-        "email": "all@admin",
-        "token": "admin@admin",
-        "date_expiration": "2024-12-05",
-        "date_created": "2024-11-05",
-        "browser_id": ["7795f461748af1bb8af2f1faa00db3c7"],
-        "access": "ptsp"
+        "email":"all@admin",
+        "token":"admin@admin",
+        "date_expiration":"2024-12-05",
+        "date_created":"2024-11-05",
+        "browser_id":[
+            "7795f461748af1bb8af2f1faa00db3c7"
+        ],
+        "access":"ptsp"
     },
     {
-        "email": "alilou@admin",
-        "token": "admin@admin",
-        "date_expiration": "2024-12-05",
-        "date_created": "2024-11-05",
-        "browser_id": ["5f3c1698b970ea65e554fe95a6cf2d86"],
-        "access": "sp"
+        "email":"alilou@admin",
+        "token":"admin@admin",
+        "date_expiration":"2024-12-05",
+        "date_created":"2024-11-05",
+        "browser_id":[
+            "5f3c1698b970ea65e554fe95a6cf2d86"
+        ],
+        "access":"sp"
     },
     {
-        "email": "tarikelbark",
-        "token": "takirlbark12345",
-        "date_expiration": "2024-12-05",
-        "date_created": "2024-11-05",
-        "browser_id": [
+        "email":"tarikelbark",
+        "token":"takirlbark12345",
+        "date_expiration":"2024-12-05",
+        "date_created":"2024-11-05",
+        "browser_id":[
             "f271d06267cf1515ad5291b00a386cb8",
             "04a4ba90aeafe9d2a42fbd40bed5e5b2"
         ],
-        "access": "sp"
+        "access":"sp"
     },
     {
-        "email": "silverzoneps5@admin",
-        "token": "admin123456",
-        "date_expiration": "2024-12-11",
-        "date_created": "2024-11-11",
-        "browser_id": [],
-        "access": "sp"
+        "email":"silverzoneps5@admin",
+        "token":"admin123456",
+        "date_expiration":"2024-12-11",
+        "date_created":"2024-11-11",
+        "browser_id":[
+
+        ],
+        "access":"sp"
     }
 ]
